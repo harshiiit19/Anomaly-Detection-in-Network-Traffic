@@ -84,9 +84,7 @@ Note: The exact values may vary depending on the threshold and contamination par
 
    • Threshold tuning is critical for minimizing false positives/negatives.
 
-📁 Project Structure
-   Anomaly-Detection-in-Network-Traffic.ipynb  # Main notebook
-   README.md                                  # Project documentation
+
 
 📌 Future Improvements
    • Test with real-time traffic data.
