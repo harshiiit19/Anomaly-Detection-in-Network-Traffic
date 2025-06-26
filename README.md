@@ -4,6 +4,10 @@ This project focuses on detecting anomalies in network traffic using unsupervise
 📂 Dataset
 The dataset used is the KDD Cup 1999 dataset, a benchmark dataset for network intrusion detection tasks. It contains various types of simulated network attacks and normal traffic with features extracted from TCP/IP connections.
 
+Resources :  
+https://www.kaggle.com/datasets/galaxyh/kdd-cup-1999-data
+   
+
 🛠️ Project Workflow
 1. Data Preprocessing
    • Loaded the dataset and assigned appropriate column names.
